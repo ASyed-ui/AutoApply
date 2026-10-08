@@ -1,0 +1,113 @@
+{
+  "personal_info": {
+    "name": "Aadil Syed",
+    "email": "aadil.syed2@gmail.com",
+    "phone": "(437) 263-7933",
+    "linkedin": "linkedin.com/in/aadilsyed1/",
+    "github": "github.com/ASyed-ui"
+  },
+  "skills": {
+    "languages": ["Python", "Java", "C#", "JavaScript", "SQL (PostgreSQL, SQLite, NoSQL)", "HTML/CSS"],
+    "frameworks": ["FastAPI", "Flask", "React", "Node.js"],
+    "developer_tools": ["Git", "Docker", "Uvicorn", "Poetry", "VS Code", "Zed", "Google Cloud Platform", "Postman", "Linux"],
+    "libraries_and_packages": ["pandas", "NumPy", "Matplotlib", "Pydantic", "Celery", "Redis", "pytest"],
+    "ml_ai_tools": ["TinyLLaMA (GGUF)", "LLM inference wrappers", "prompt engineering utilities"],
+    "soft_skills": ["Verbal Communication", "Problem-Solving", "Collaboration", "Organization", "Time Management", "Leadership", "Efficiency"],
+    "languages_spoken": ["English", "Urdu", "Hindi"]
+  },
+  "experience": [
+    {
+      "company": "Orion Systems and Solutions",
+      "location": "Toronto, ON",
+      "position": "Full-Stack Developer",
+      "start_date": "July 2025",
+      "end_date": "Present",
+      "highlights": [
+        "Designed and built a robust RESTful API using FastAPI (Python) following an MVC-based backend architecture, delivering 10+ production endpoints.",
+        "Implemented JWT-based authentication and request rate limiting via custom FastAPI middleware.",
+        "Designed and managed a PostgreSQL relational database, including schema design and setup scripts.",
+        "Leveraged Poetry, Docker, and GitHub Actions for dependency management and CI/CD.",
+        "Conducted comprehensive integration testing via Postman, and built unit tests using the pytest library."
+      ]
+    },
+    {
+      "company": "Islamic Foundation of Toronto",
+      "location": "Toronto, ON",
+      "position": "Business Systems Analyst / Social Services Assistant",
+      "start_date": "May 2025",
+      "end_date": "July 2025",
+      "highlights": [
+        "Designed digital intake workflows using Google Forms, processing 200+ client submissions.",
+        "Maintained structured datasets in Google Sheets, Excel, and Access with 99%+ accuracy.",
+        "Performed data validation and cleanup to ensure consistency across 3+ systems.",
+        "Provided IT support for Windows-based systems, resolving 50+ user issues."
+      ]
+    },
+    {
+      "company": "Canadian National Exhibition",
+      "location": "Toronto, ON",
+      "position": "Floor Superintendent",
+      "start_date": "Aug. 2025",
+      "end_date": "Sep. 2025",
+      "highlights": [
+        "Managed 20+ staff and volunteers across all zones for an 8-day event with 1M+ attendees.",
+        "Resolved 15+ real-time issues per shift, including crowd control and equipment problems.",
+        "Enforced safety protocols and schedules, reducing response times by 30%.",
+        "Prepared daily incident reports and shift handovers for smooth operations.",
+        "Conducted 30+ safety inspections, ensuring compliance with CNE standards."
+      ]
+    },
+    {
+      "company": "Elections Ontario",
+      "location": "Ontario",
+      "position": "Deputy Returning Officer (Tech)",
+      "start_date": "January 2025",
+      "end_date": "March 2025",
+      "highlights": [
+        "Operated and maintained electronic voting systems to ensure accurate vote processing.",
+        "Provided technical support for voting equipment, troubleshooting issues quickly.",
+        "Collaborated with election officials to enforce security protocols, maintain records, and verify election results.",
+        "Trained and supervised staff on electronic voting equipment and procedures."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Agile Assistant",
+      "technologies": ["Python", "Tiny Llama LLM", "Docker", "GitHub API", "Discord.py"],
+      "date": "Oct. 2025",
+      "highlights": [
+        "Designed and built an integrated AI-powered discord bot to generate, manage, and triage Agile tickets.",
+        "Integrated and instructed a quantized LLM to generate issues using natural language prompts to expedite creation.",
+        "Developed functionality to manage and triage issues on GitHub directly via Discord messaging service.",
+        "Followed Agile Scrum workflows and sprint-based development.",
+        "Integrated fully with the GitHub API to create, update, and track issues, pull requests, and sprint tasks."
+      ]
+    },
+    {
+      "name": "Device Management API",
+      "technologies": ["Python", "FastAPI", "SQLite/PostgreSQL", "JWT", "pytest"],
+      "date": "Dec. 2025",
+      "highlights": [
+        "Designed and deployed a RESTful API using FastAPI with 10+ production endpoints.",
+        "Implemented JWT authentication and rate limiting middleware to secure and protect API traffic.",
+        "Built and managed SQLite/PostgreSQL databases with automated setup, reset, and test workflows.",
+        "Authored comprehensive unit and integration tests using pytest, ensuring API reliability and correctness."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centennial College",
+      "credential": "Ontario College Advanced Diploma in Software Engineering Technology (Optional Co-op)",
+      "start_date": "Sep. 2024",
+      "end_date": "Present"
+    },
+    {
+      "institution": "McMaster University",
+      "credential": "Bachelor of Technology (BTech) in Software Engineering Technology (Degree Completion / Advanced Entry From College)",
+      "start_date": "Planned Transfer",
+      "end_date": "Present"
+    }
+  ]
+}

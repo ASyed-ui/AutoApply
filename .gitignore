@@ -1,0 +1,8 @@
+.env
+venv/
+*.db
+__pycache__/
+*.pdf
+browser_session.json
+autoapply.db
+tailored_resumes/
